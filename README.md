@@ -97,6 +97,11 @@ Evaluation metrics:
 - Random Forest handles complex relationships better than Linear Regression.
 
 ---
+## Dataset
+
+Dataset Source: Kaggle
+
+Link: https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction
 
 ## Project Structure
 
